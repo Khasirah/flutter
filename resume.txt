@@ -1,0 +1,2 @@
+1.13:
+a. pushReplacement pada Navigator.of(context), mengganti halaman sebelumnya jadi tidak akan bisa kembali ke halaman sebelumnya karena sudah diganti
